@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README
 
 ## Overview
