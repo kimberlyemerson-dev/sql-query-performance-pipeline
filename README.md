@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repo is the companion to my [SQL Query Performance Pipeline]() video on YouTube.
+This repo is the companion to my [Slow SQL Queries? Do THIS to Make Them Faster!](https://www.youtube.com/watch?v=0gDDajsMYbc) video on YouTube.
 
 If you’re following along in the video, this is the exact demo environment I use — the same tables, the same queries, the same indexing steps.
 
@@ -15,6 +15,8 @@ It contains the following:
 |------------------------------------|-----------------------------------------------------------------------------|
 | KimberlyEmersonDemos__CREATE.sql   | Script to easily create the demo database using `SELECT...INTO` from AdventureWorks2025     |
 | KimberlyEmersonDemos__Indexing.sql | Script to create indexes for the demo database                              |
+
+Execute the CREATE script to create the database once all the required environment items have been set up.
 
 <caption>Queries</caption>
 
